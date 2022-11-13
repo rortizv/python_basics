@@ -1,0 +1,1 @@
+# Este repo es para aprender las bases de Python
