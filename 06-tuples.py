@@ -1,4 +1,5 @@
 # Una tupla es inmutable, no se puede modificar
+# para ello, hay que convertir la tupla en lista
 
 my_tuple = tuple()
 my_other_tuple = ()
